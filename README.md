@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Eren+Sezen!;Backend+Developer+%7C+C%23+%7C+ASP.NET+%7C+SQL;JoyGame+%C3%87al%C4%B1%C5%9Fan%C4%B1+%7C+IT+Enthusiast" alt="Typing SVG" />
 </p>
 
-## 👋 Merhaba, ben Eren Kaan Sezen!
+## 👋 Merhaba, ben Eren Sezen!
 
 💼 JoyGame'de çalışıyorum.  
 💻IT altyapısı  ve Backend geliştirme üzerine çalışıyorum.  
