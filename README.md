@@ -5,17 +5,16 @@
 ## 👋 Merhaba, ben Eren Kaan Sezen!
 
 💼 JoyGame'de çalışıyorum.  
-💻 Backend geliştirme ve IT altyapısı üzerine çalışıyorum.  
-🌐 Web teknolojileri ve veritabanı sistemlerine ilgi duyuyorum.
+💻IT altyapısı  ve Backend geliştirme üzerine çalışıyorum.  
+
 
 ---
 
 ## 🚀 Hakkımda
-
+İstinye Üniversitesinden Bilgisayar Programcılığı bölümünden mezun oldum. 
 C# ve ASP.NET ile güçlü backend sistemleri geliştiriyorum.  
 HTML, CSS ve JavaScript ile web arayüzleri oluşturma konusunda deneyimliyim.  
-SQL tabanlı veritabanları (MS SQL, MySQL) ile kapsamlı veri yönetimi projelerinde yer aldım.  
-Ayrıca MongoDB gibi NoSQL çözümleriyle modern uygulamalar geliştiriyorum.  
+SQL tabanlı veritabanları (MS SQL, MySQL , NoSQL) ile projelerimde geliştiriyorum.  
 Yeni teknolojileri öğrenmeye ve üretmeye her zaman açığım.
 
 ---
