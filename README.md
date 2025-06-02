@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Eren+Sezen!;Backend+Developer+%7C+C%23+%7C+ASP.NET+%7C+SQL;JoyGame+%7C+IT+Sprecialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Merhaba%2C+ben+Eren+Sezen!;+%7C+C%23+%7C+Backend+Developer+%7C+C%23+%7C+ASP.NET+%7C+SQL;JoyGame+%7C+IT+Sprecialist" alt="Typing SVG" />
 </p>
 
 ## 👋 Merhaba, ben Eren Sezen!
